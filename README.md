@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius Nogozzeky</h1>
 <h3 align="center">A frontend developer from Brasil</h3>
 
+- 🌱 I’m currently learning **SpringBoot and Angular devolopment**
 - 📫 How to reach me **vnogozzeky@gmail.com**
 - 🎓 Cursando Engenharia de Software (4° Período) PUCPR
 
@@ -9,6 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/viniciusnogozzeky-917394212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/viniciusnogozzeky-917394212" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/viniciusnogozzeky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/viniciusnogozzeky/" height="30" width="40" /></a>
+<a href="https://discord.gg/Vínicius#3177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vínicius#3177" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
