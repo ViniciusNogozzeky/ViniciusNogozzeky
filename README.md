@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusnogozzeky&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusnogozzeky" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **SpringBoot and Angular devolopment**
 - 📫 How to reach me **vnogozzeky@gmail.com**
 - 🎓 Cursando Engenharia de Software (4° Período) PUCPR
