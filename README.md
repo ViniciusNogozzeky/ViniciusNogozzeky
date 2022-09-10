@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius Nogozzeky</h1>
 <h3 align="center">A frontend developer from Brasil</h3>
 
+- 📫 How to reach me **vnogozzeky@gmail.com**
 
 <h3 align="left"> <a href="www.linkedin.com/in/viniciusnogozzeky-917394212
 "> </a> Connect with me:</h3>
