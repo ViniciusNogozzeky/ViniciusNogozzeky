@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi, my name is Vinícius Nogozzeky</h3>
+<h3 align="center">A frontend developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusnogozzeky&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusnogozzeky" /> </p>
 
