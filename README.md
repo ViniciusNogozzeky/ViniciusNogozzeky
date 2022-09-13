@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/viniciusnogozzeky-917394212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/viniciusnogozzeky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/viniciusnogozzeky/" height="30" width="40" /></a>
-<a href="https://discord.gg/Vínicius#3177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vínicius#3177" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
