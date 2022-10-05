@@ -7,13 +7,6 @@
 - 📫 How to reach me **vnogozzeky@gmail.com**
 - 🎓 Cursando Engenharia de Software (4° Período) PUCPR
 
-<h3 align="left"> <a href="www.linkedin.com/in/viniciusnogozzeky-917394212
-"> </a> Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/viniciusnogozzeky-917394212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/viniciusnogozzeky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/viniciusnogozzeky/" height="30" width="40" /></a>
-</p>
-
 <p align="left"> <a href="https://twitter.com/vallentinn_" target="blank"><img src="https://img.shields.io/twitter/follow/vallentinn_?logo=twitter&style=for-the-badge" alt="vallentinn_" style="background none" /></a> </p>
 
 <div style="display: inline_block"><br>
@@ -29,9 +22,6 @@
   </a>
   <a href="https://www.instagram.com/viniciusnogozzeky/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/vallentinn_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="mailto:vnogozzeky@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
