@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vinícius Nogozzeky</h1>
 <h3 align="center">A frontend developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusnogozzeky&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusnogozzeky" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=viniciusnogozzeky&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusnogozzeky" /> 
+</p>
 
-- 🌱 I’m currently learning **SpringBoot and Angular devolopment**
-- 📫 How to reach me **vnogozzeky@gmail.com**
-- 🎓 Cursando Engenharia de Software (4° Período) PUCPR
+<br>🌱 I’m currently learning **SpringBoot and Angular devolopment**
+<br>📫 How to reach me **vnogozzeky@gmail.com**
+<br>🎓 Cursando Engenharia de Software (4° Período) PUCPR
 
 <p align="left"> <a href="https://twitter.com/vallentinn_" target="blank"><img src="https://img.shields.io/twitter/follow/vallentinn_?logo=twitter&style=for-the-badge" alt="vallentinn_" style="background none" /></a> </p>
 
@@ -21,10 +23,10 @@
 
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ViniciusNogozzeky" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ViniciusNogozzeky" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatovnogozzeky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusnogozzeky-917394212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
