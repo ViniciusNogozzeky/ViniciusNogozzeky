@@ -7,7 +7,7 @@
 
 <br>🌱 I’m currently learning **SpringBoot and Angular devolopment**
 <br>📫 How to reach me **vnogozzeky@gmail.com**
-<br>🎓 Cursando Engenharia de Software (4° Período) PUCPR
+<br>🎓 Cursando Engenharia de Software (5° Período) PUCPR
 
 <p align="left"> <a href="https://twitter.com/vallentinn_" target="blank"><img src="https://img.shields.io/twitter/follow/vallentinn_?logo=twitter&style=for-the-badge" alt="vallentinn_" style="background none" /></a> </p>
 
